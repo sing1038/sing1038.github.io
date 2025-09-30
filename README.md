@@ -35,7 +35,7 @@
 
   <!-- Manager 2 -->
   <h3>Marcus Lee — <u>Head of Product</u></h3>
-  <img src="manager2.jpg" alt="Marcus Lee" width="200">
+  <img src="Lee.png" alt="Marcus Lee" width="200">
   <p>Marcus designs new tools and training for kitchens.</p>
   <!-- Ordered list -->
   <ol>
