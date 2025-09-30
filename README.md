@@ -59,7 +59,7 @@
 
   <!-- Email link (to creator) -->
   <p>Contact page creator: 
-    <a href="mailto:reva.khaana@example.com">reva.khaana@example.com</a>
+    <a href="mailto:reva.singh@Khaana.com">reva.singh@Khaana.com</a>
   </p>
 
   <!-- Last modified date -->
