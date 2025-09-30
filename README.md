@@ -46,7 +46,7 @@
 
   <!-- Manager 3 -->
   <h3>Elena Rodriguez — <u>Director of Operations</u></h3>
-  <img src="manager3.jpg" alt="Elena Rodriguez" width="200">
+  <img src="Elena.png" alt="Elena Rodriguez" width="200">
   <p>Elena manages rollout at foodservice locations and quality checks.</p>
 
   <!-- Downloadable file -->
