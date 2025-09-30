@@ -22,7 +22,7 @@
 
   <!-- Manager 1 -->
   <h3>Priya Sharma — <u>Founder & CEO</u></h3>
-  <img src="manager1.jpg" alt="Priya Sharma" width="200">
+  <img/desktop/Priya Sharma src="manager1.jpg" alt="Priya Sharma" width="200">
   <p style="font-family: Courier New; font-size: 14px;">
     Priya leads company strategy and supplier partnerships. 
     <i>Fun fact:</i> She creates allergy-safe desserts in our test kitchen.
